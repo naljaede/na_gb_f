@@ -1,5 +1,5 @@
 {"version_code":451517,"content":"
-<p>vتحديث جديد 11.30</p>
+<p>vتحديث جديد 11.40</p>
 
 <p>حصريا  النسخة تدعم كافة اجهزة الاندرويد وايضا يدعم اصدارت كيتكات 4.1.2 و 4.4.2 و 4.4.4 فما فوق</p>
 <p>حصريا  تم اضافة ميزة رسالة جماعية للمجموعات بطريقه جديده وسهلة</p>
@@ -35,7 +35,7 @@
 <p>إصلاح   مشاكل بار التنقل السفلي مع واجهة اللغة العربية</p>
 <p>ملاحظة ميزة الترجمه داخل المحادثات تحتاج الى تثبيت برنامج (مترجم جوجل)</p>
 
-<p>New Update v11.30</p>
+<p>New Update v11.40</p>
 
 <p>Exclusive The version Supports all Android devices and also supports Kitkat versions 4.1.2, 4.4.2 and 4.4.4 and above</p>
 <p>Exclusive A group message has beenAdded to groups in a new and easy way</p>
