@@ -1,7 +1,1 @@
-{"version_code":451820,"content":"
-<p>vتحديث جديد 11.95</p>
 
-<p>New Update v11.95</p>
-
-","url":"https://apk2.app/NAWhatsApp"
-}
