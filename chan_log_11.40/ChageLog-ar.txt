@@ -1,7 +1,20 @@
-{"version_code":452025,"content":"
-<p>vتحديث جديد 11.55</p>
+{"version_code":453537,"content":"
 
+<p>تحديث جديد 12.500</p>
 
+<p>🔹[تحديث اجباري]</p>
+<p>🔹[توافق] النسخة على الاجهزة ذات الاصدار 4.4.2 فما فوق</p>
+<p>🔹[تمديد] فترة انتهاء النسخة</p>
+<p>🔺[اصلاح] مشكلة التنبيه التطبيق ضار</p>
+<p>🔺[مزيد] من تحسين ضد الحظر!</p>
+
+<p>New Update v12.50</p>
+
+<p>🔹[Update Mandatory]</p>
+<p>🔹[compatibility] Version on devices with version 4.4.2 and above</p>
+<p>🔹[Extension] Expiration period</p>
+<p>🔺[Fixed] a malicious app alert issue</p>
+<p>🔺[Misc] Many other fixes</p>
 
 ","url":"https://apk2.app/NAWhatsApp"
 }
