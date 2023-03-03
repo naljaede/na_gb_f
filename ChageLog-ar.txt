@@ -1,4 +1,4 @@
-{"version_code":451517,"content":"
+{"version_code":453537,"content":"
 
 <p>تحديث جديد 12.700</p>
 
